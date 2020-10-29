@@ -1,17 +1,3 @@
-<!--
-**JLAJ5/JLAJ5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -30,8 +16,6 @@ Here are some ideas to get you started:
 <a id="user-content-hello-im-jorge-azevedo" class="anchor" aria-hidden="true" href="#hello-im-jorge-azevedo">
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
 <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hello 👋🏼, I'm Jorge Azevedo</h1>
-  
-  <strong><span><font color="#888888"><b><font size="3"><font color="#0000ff">H</font><font color="deeppink">o</font><font color="mediumspringgreen">m</font><font color="darkviolet">e</font><font color="red">m</font>&nbsp;<font color="deepskyblue">d</font><font color="orange">e</font>&nbsp;<font color="mediumvioletred">C</font><font color="aqua">o</font><font color="black">®</font></font></b> <br></font></span></strong>
 
 <h3 align="center"><a id="user-content-who-loves-programming" class="anchor" aria-hidden="true" href="#who-loves-programming"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>I'm a Computer Engineer</h3>
 
@@ -55,7 +39,7 @@ Here are some ideas to get you started:
 <p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <strong><a href="mailto:jorge.luis.eng@gmail.com">jorge.luis.eng@gmail.com</a></strong></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: <strong><span><font color="#888888"><b><font size="3"><font color="#0000ff">H</font><font color="deeppink">o</font><font color="mediumspringgreen">m</font><font color="darkviolet">e</font><font color="red">m</font>&nbsp;<font color="deepskyblue">d</font><font color="orange">e</font>&nbsp;<font color="mediumvioletred">C</font><font color="aqua">o</font><font color="black">®</font></font></b> <br></font></span></strong></p>
+<p><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact:</p> ![ welcome ](/HomenDeCor.png?raw=true)
 </li>
 </ul>
 <p align="left"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/902b40a1a237f9f1fafdca5ea16da3c4f2825651/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667"><img src="https://camo.githubusercontent.com/902b40a1a237f9f1fafdca5ea16da3c4f2825651/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="bash" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/855436203f025325f663ef9b9c63a389dd9bbd98/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/855436203f025325f663ef9b9c63a389dd9bbd98/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9db55f3871125e905941bfcf67567885e247589d/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/9db55f3871125e905941bfcf67567885e247589d/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" alt="linux" width="40" height="40" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/188581baa4eb9016e00bf07260f1fe6f12222b0a/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/188581baa4eb9016e00bf07260f1fe6f12222b0a/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="python" width="40" height="40" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" style="max-width:100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4683d18a4a9f845dd7de377a6915dcfc9739a661/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/4683d18a4a9f845dd7de377a6915dcfc9739a661/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="react" width="40" height="40" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" style="max-width:100%;"></a>
