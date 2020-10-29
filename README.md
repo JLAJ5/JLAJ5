@@ -39,7 +39,7 @@
 <p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <strong><a href="mailto:jorge.luis.eng@gmail.com">jorge.luis.eng@gmail.com</a></strong></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact:</p>
+<p><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: <img align="right" width="137" height="20" src="https://github.com/JLAJ5/JLAJ5/HomenDeCor.png"></p>
   
   ![ welcome ](/HomenDeCor.png?raw=true)
 </li>
