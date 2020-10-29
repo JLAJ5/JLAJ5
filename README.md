@@ -24,11 +24,6 @@ Here are some ideas to get you started:
   <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
   <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-h2Cx1TDWDSy6b+gcsS1nwBiwmIjIDiLziT8GyFr3BNvo+Icen+UNC5AsKRGjcK7KNRFPD4Lmpz1oYJYw0lT/pg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-8760b1d530d60d2cba6fe81cb12d67c0.css" />
-    
-<script crossorigin="anonymous" defer="defer" integrity="sha512-BcZuYBDQSrDGJ1GJjA9LZdyvYLrGUWtdBW5H7hbIuqR2QJ2YeF09vIjgIlFyYS1Ek3xutT0a2sDTKCRPIfzkuQ==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-05c66e60.js">
-</script>
-
 <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
 <article class="markdown-body entry-content container-lg" itemprop="text">
 <h1 align="center">
