@@ -8,8 +8,6 @@
 
 - 📫 How to reach me: <strong><a href="mailto:jorge.luis.eng@gmail.com">jorge.luis.eng@gmail.com</a></strong>
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Laravel, Angular**
-
 - ⚡ Fun fact <img align="center" width="137" height="20" src="https://github.com/JLAJ5/JLAJ5/blob/main/HomenDeCor.png">
 
 <br><br>
@@ -32,6 +30,8 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Azure](https://img.shields.io/badge/-Microsoft_Azure-05122A?style=flat&logo=microsoft-azure&logoColor=0089D6)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat&logo=linux&logoColor=black)&nbsp;
+![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=3DDC84)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin&logoColor=0095D5)&nbsp;
 
 <br><br>
 
